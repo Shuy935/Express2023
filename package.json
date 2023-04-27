@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "API usando express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuy935/Express2023.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Jesus Ivan Quintana Bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shuy935/Express2023/issues"
+  },
+  "homepage": "https://github.com/Shuy935/Express2023#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
